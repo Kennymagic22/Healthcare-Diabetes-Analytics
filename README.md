@@ -17,3 +17,9 @@ This project was designed to answer the following key questions:
 - How do average glucose levels compare between diabetic and non-diabetic patients?
 - How does average BMI compare between diabetic and non-diabetic patients?
 - What is the relationship between BMI and glucose levels?
+
+## Tools & Technologies
+
+- **Power BI** – Data modeling, DAX calculations, interactive dashboard development, slicers, KPI cards, and data visualization.
+- **SQL** – Data exploration and analysis, including calculations used to evaluate diabetes rates across patient groups.
+- **Power Query** – Data cleaning, transformation, and preparation before analysis.
