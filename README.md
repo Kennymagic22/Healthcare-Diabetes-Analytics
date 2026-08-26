@@ -23,3 +23,7 @@ This project was designed to answer the following key questions:
 - **Power BI** – Data modeling, DAX calculations, interactive dashboard development, slicers, KPI cards, and data visualization.
 - **SQL** – Data exploration and analysis, including calculations used to evaluate diabetes rates across patient groups.
 - **Power Query** – Data cleaning, transformation, and preparation before analysis.
+
+## Data Preparation & Cleaning
+The dataset was reviewed and prepared in Power Query before analysis to ensure the data was clean, consistent, and suitable for building the Power BI dashboard.
+
