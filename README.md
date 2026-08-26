@@ -33,3 +33,16 @@ Key preparation and transformation steps included:
 - Created a **BMI Category** field to classify patients as Underweight, Normal, Overweight, Obese, or Missing BMI, allowing diabetes rates to be compared across BMI groups.
 - Created a **Diabetes Status** field to classify patients as Diabetic or Non-Diabetic, making the results easier to interpret across the dashboard.
 - Created an **Age Group Sort** field to ensure age groups appear in the correct logical order in Power BI visualizations.
+
+## Key Measures & Calculations
+
+Key DAX measures were created in Power BI to support the analysis and dashboard visualizations.
+
+- **Total Patients** – Calculates the total number of patient records in the dataset.
+- **Total Diabetic Patients** – Calculates the total number of patients classified as diabetic.
+- **Diabetes Rate %** – Calculates the percentage of patients who are diabetic.
+- **Average Age** – Calculates the average age of patients in the dataset.
+- **Average BMI** – Calculates the average BMI across patient records with available BMI values.
+- **Average Glucose** – Calculates the average glucose level across patient records.
+- **Average Blood Pressure** – Calculates the average blood pressure across patient records.
+- **Average Insulin** – Calculates the average insulin level across patient records.
