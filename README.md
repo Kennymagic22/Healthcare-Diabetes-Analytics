@@ -46,3 +46,11 @@ Key DAX measures were created in Power BI to support the analysis and dashboard 
 - **Average Glucose** – Calculates the average glucose level across patient records.
 - **Average Blood Pressure** – Calculates the average blood pressure across patient records.
 - **Average Insulin** – Calculates the average insulin level across patient records.
+
+## Dashboard Overview
+
+The Power BI dashboard provides an interactive view of diabetes patterns and key patient health indicators.
+
+### Dashboard Preview
+
+![Healthcare Diabetes Analytics Dashboard](images/healthcare_diabetes_dashboard.png)
