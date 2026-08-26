@@ -27,3 +27,9 @@ This project was designed to answer the following key questions:
 ## Data Preparation & Cleaning
 The dataset was reviewed and prepared in Power Query before analysis to ensure the data was clean, consistent, and suitable for building the Power BI dashboard.
 
+Key preparation and transformation steps included:
+
+- Created an **Age Group** field to categorize patients into Under 30, 30–39, 40–49, 50–59, and 60+ for age-based diabetes analysis.
+- Created a **BMI Category** field to classify patients as Underweight, Normal, Overweight, Obese, or Missing BMI, allowing diabetes rates to be compared across BMI groups.
+- Created a **Diabetes Status** field to classify patients as Diabetic or Non-Diabetic, making the results easier to interpret across the dashboard.
+- Created an **Age Group Sort** field to ensure age groups appear in the correct logical order in Power BI visualizations.
