@@ -53,4 +53,5 @@ The Power BI dashboard provides an interactive view of diabetes patterns and key
 
 ### Dashboard Preview
 
+![Healthcare Diabetes Analytics Dashboard](images/Healthcare_diabetes.png)
 
