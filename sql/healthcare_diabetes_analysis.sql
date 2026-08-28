@@ -101,7 +101,6 @@ GROUP BY Age_Group
 ORDER BY Diabetes_Rate DESC;
 
 -- 12. Diabetes Rate by BMI Category
--- 12. Diabetes Rate by BMI Category
 SELECT
     CASE
         WHEN BMI IS NULL OR BMI = 0 THEN 'Missing BMI'
