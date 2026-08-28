@@ -71,3 +71,7 @@ The Power BI dashboard provides an interactive view of diabetes patterns and key
 - Use age, BMI category, and diabetes status together when exploring patient groups rather than relying on a single health indicator.
 - Continue monitoring BMI and glucose trends to help identify patient groups that may require further assessment or preventive intervention.
 
+## Conclusion
+
+This project demonstrates the use of Power BI, Power Query, DAX, and SQL to analyze healthcare data and identify patterns associated with diabetes. The analysis highlights key relationships between diabetes, BMI, glucose levels, and age groups while presenting the findings through an interactive and easy-to-understand dashboard.
+
