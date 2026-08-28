@@ -64,3 +64,10 @@ The Power BI dashboard provides an interactive view of diabetes patterns and key
 - **BMI:** Diabetic patients have a higher average BMI (**35.5**) than non-diabetic patients (**31.1**).
 - **Overall Pattern:** Diabetic patients in this dataset show higher average BMI and glucose levels compared with non-diabetic patients.
 
+## Recommendations
+
+- Prioritize monitoring of patients with higher BMI, particularly those in the Obese category, which showed the highest diabetes rate in the dataset.
+- Pay close attention to elevated glucose levels, as diabetic patients showed substantially higher average glucose levels than non-diabetic patients.
+- Use age, BMI category, and diabetes status together when exploring patient groups rather than relying on a single health indicator.
+- Continue monitoring BMI and glucose trends to help identify patient groups that may require further assessment or preventive intervention.
+
