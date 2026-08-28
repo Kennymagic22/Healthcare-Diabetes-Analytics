@@ -55,3 +55,12 @@ The Power BI dashboard provides an interactive view of diabetes patterns and key
 
 ![Healthcare Diabetes Analytics Dashboard](images/Healthcare_diabetes.png)
 
+## Key Insights & Findings
+
+- **Overall Diabetes Rate:** 952 out of 2,768 patients are diabetic, representing **34.39%** of the dataset.
+- **Age Group:** Patients under 30 have the highest number of diabetic cases (**300 patients**), while the number of diabetic patients decreases across the older age groups.
+- **BMI Category:** The **Obese** category has the highest diabetes rate at **45.42%**, followed by Overweight at **22.63%**.
+- **Glucose Levels:** Diabetic patients have a substantially higher average glucose level (**141.5**) compared with non-diabetic patients (**110.4**).
+- **BMI:** Diabetic patients have a higher average BMI (**35.5**) than non-diabetic patients (**31.1**).
+- **Overall Pattern:** Diabetic patients in this dataset show higher average BMI and glucose levels compared with non-diabetic patients.
+
